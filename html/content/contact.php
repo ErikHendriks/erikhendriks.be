@@ -71,8 +71,7 @@
 		<h5>Where to find me</h5>
 
 		<p>
-        Gebr De Wachterstr 9<br>
-        2610, Wilrijk, Belgium<br>
+        Antwerp, Belgium<br>
         
         </p>
 
