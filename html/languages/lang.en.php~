@@ -1,0 +1,56 @@
+<?php
+/* 
+------------------
+Language: English
+------------------
+*/
+
+$lang = array();
+
+// Title
+
+$lang['PAGE_TITLE'] = 'Web Design, Programming and Security by Erik Hendriks';
+
+// Menu
+
+$lang['MENU_TOP'] = 'Top';
+$lang['MENU_HOME'] = 'Home';
+$lang['MENU_WEBDESIGN'] = 'Web';
+$lang['MENU_PROGRAMMING'] = 'Code';
+$lang['MENU_SECURITY'] = 'Security';
+$lang['MENU_CONTACT'] = 'Contact';
+
+// Header
+
+$lang['HEADER_H1'] = 'Erik Hendriks';
+$lang['HEADER_P1'] = 'Creative it solutions';
+$lang['HEADER_B1'] = 'Proceed';
+
+// Banner
+
+$lang['BANNER_H2'] = 'This is Overflow';
+$lang['BANNER_P1'] = 'One of many fully responsive site template designed for speed, reliability and security. </br><strong>Released for free</strong>, just as all other stuff on this website, under the Creative Commons license. </br></br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></br>';
+$lang['BANNER_B1'] = 'Continue to see more';
+
+// Features
+
+// Contact
+
+$lang['CONTACT_H2'] = 'Write me a message';
+$lang['CONTACT_P1'] = '';
+$lang['CONTACT_NAME'] = 'Name';
+$lang['CONTACT_EMAIL'] = 'Email';
+$lang['CONTACT_MESSAGE'] = 'Message';
+$lang['CONTACT_SEND'] = 'Send';
+
+// Footer
+
+$lang['FOOTER'] = ' Overflow. All rights reserved. Initial design: <a href="http://html5up.net" target="_blank">HTML5 UP</a></br></br>We use a cookie to store your language preferens.';
+
+// Secfeatures
+
+$lang['SECFEATURES_H31'] = 'Computer Security';
+$lang['SECFEATURES_P1'] = 'Computer security, also known as cybersecurity or IT security, is the protection of information systems from theft or damage to the hardware, the software, and to the information on them, as well as from disruption or misdirection of the services they provide.';
+
+
+?>

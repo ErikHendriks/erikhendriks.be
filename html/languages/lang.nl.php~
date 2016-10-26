@@ -1,0 +1,63 @@
+<?php
+/* 
+--------------------
+Language: Nederlands
+--------------------
+*/
+
+$lang = array();
+
+// Title
+
+$lang['PAGE_TITLE'] = 'Web Design, Programming en Security van Erik Hendriks';
+
+// Menu
+
+$lang['MENU_TOP'] = 'Top';
+$lang['MENU_HOME'] = 'Home';
+$lang['MENU_WEBDESIGN'] = 'Web';
+$lang['MENU_PROGRAMMING'] = 'Code';
+$lang['MENU_SECURITY'] = 'Security';
+$lang['MENU_CONTACT'] = 'Contact';
+
+// Header
+
+$lang['HEADER_H1'] = 'Erik Hendriks';
+$lang['HEADER_P1'] = 'Creatieve it oplossingen';
+$lang['HEADER_B1'] = 'Ga Verder';
+
+// Banner
+
+$lang['BANNER_H2'] = 'Dit is Overflow';
+$lang['BANNER_P1'] = 'Een van de vele responsive site template ontworpen voor snelheid, betrouwbaarheid en veiligheid. </br><strong>Gratis gelanceerd</strong>, net als al het andere op deze website, onder de Creative Commons licentie. </br></br><a  rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a></br>';
+$lang['BANNER_B1'] = 'Klik hier voor meer';
+
+// Features
+
+$lang['FEATURES_H21'] = 'Web Design';
+$lang['FEATURES_P1'] = 'Deze websites zijn ontworpen om te werken op alle schermen, ze zijn vederlicht en daardoor razend snel!</br> ';
+$lang['FEATURES_B1'] = 'Lees Meer';
+$lang['FEATURES_H22'] = 'Programmeren';
+$lang['FEATURES_P2'] = 'Essentieel voor een goed werkende en veilige websites, database programmeren, online formulieren etc.';
+$lang['FEATURES_B2'] = 'Browse Code';
+
+
+// Contact
+
+$lang['CONTACT_H2'] = 'Neem contact met mij op';
+$lang['CONTACT_P1'] = '';
+$lang['CONTACT_NAME'] = 'Naam';
+$lang['CONTACT_EMAIL'] = 'Email';
+$lang['CONTACT_MESSAGE'] = 'Bericht';
+$lang['CONTACT_SEND'] = 'Versturen';
+
+// Footer
+
+$lang['FOOTER'] = ' Overflow. Alle rechten voorbehouden. Eerste ontwerp: <a href="http://html5up.net" target="_blank">HTML5 UP</a></br></br>Met een cookie slaan we je taal voorkeur op.';
+
+// Secfeatures
+
+$lang['SECFEATURES_H31'] = 'Computer Security';
+$lang['SECFEATURES_P1'] = 'Computer security, also known as cybersecurity or IT security, is the protection of information systems from theft or damage to the hardware, the software, and to the information on them, as well as from disruption or misdirection of the services they provide.';
+
+?>
